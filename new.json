@@ -1,0 +1,16 @@
+{
+  "person":{
+    "name": "Svetlana",
+    "surname": "Chenchikova",
+    "age": 35
+  },
+  "pets":{
+    "pet_type": "cat",
+    "pet_name": "Charlie",
+    "pet_age": 11
+  },
+  "job": {
+    "profession": "QA",
+    "salary": 1000
+  }
+}
